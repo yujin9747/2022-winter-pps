@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-력
+
 public class Solution {
     public int[] solution(int[] arr, int divisor) {
         List temp = new ArrayList();        // 요소 갯수 변경이 자유로운 list에 임시로 작업
